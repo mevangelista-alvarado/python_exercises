@@ -9,7 +9,7 @@ Sucesión de Fibonacci
 
 Es una secuencia infinita de números naturales cuyos dos primeros términos son 1 y 1 y tal que, cualquier otro término se obtiene sumando los dos inmediatamente anteriores. Por tanto, se cumple la relación de recurrencia siguiente:
 
-$$ r_{1}=1, r_{2}=1, \ldots, r_{n}=r_{n-1}+r_{n-2} (n > 2)$$
+$$ r_{1}=1, \quad r_{2}=1, \quad r_{n}=r_{n-1}+r_{n-2} \qquad (n > 2)$$
 
 De manera explícita, tendríamos que es: $1, 1, 2, 3, 5, 8, 13, 21, 34, \ldots $ 
 ___
