@@ -4,7 +4,7 @@ ___
 # Ejercicio 1
 ___
 
-Sucesión de Fibonacci  
+__Sucesión de Fibonacci__  
 
 
 Es una secuencia infinita de números naturales cuyos dos primeros términos son $1$ y $1$ y tal que, cualquier otro término se obtiene sumando los dos inmediatamente anteriores. Por tanto, se cumple la relación de recurrencia siguiente:
