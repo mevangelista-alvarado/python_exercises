@@ -1,2 +1,2 @@
-# python_exercises
-Ejercicios de Python 
+# Ejercicios de Python 
+Dentro de cada carpeta encontrará un ejercicio.
