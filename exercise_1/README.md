@@ -13,7 +13,7 @@ $$ r_{1}=1, \quad r_{2}=1, \quad r_{n}=r_{n-1}+r_{n-2} \qquad (n > 2)$$
 
 De manera explícita, tendríamos que es: $1, 1, 2, 3, 5, 8, 13, 21, 34, \ldots $ 
 
-Realice una función donde que calcule y muestre en consola todos los elementos de la sucesión Fibonacci menores a un parámetro dado por el usuario.
+Escribir una función que calcule y muestre en consola todos los elementos de la sucesión Fibonacci menores a un parámetro dado por el usuario.
 ___
 
 ## Errores & Sugerencias
