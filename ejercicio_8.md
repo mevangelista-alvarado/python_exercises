@@ -4,7 +4,7 @@ _____
 # Ejercicio 8
 _____
 
-__Serie Armonica__  
+__Serie Armónica__  
 
 _____
 
