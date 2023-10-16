@@ -14,7 +14,7 @@ ____
 
 **Notas**  
 
-Tip se suguiere utilizar `Sympy`. Pero es libre de utilizar el módulo que crea necesario.
+No utilice módulos de Python.
 
 _____
 
