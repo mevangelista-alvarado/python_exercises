@@ -48,7 +48,8 @@ _____
 * Ejercicio 11  
 	* 
 * Ejercicio 12  
-	*
+	*  
+<!--
 * Ejercicio 13  
 	* 
 * Ejercicio 14  
@@ -65,5 +66,6 @@ _____
 	* 
 * Ejercicio 20  
 	* 
-* Ejercicio 21  
+* Ejercicio 21
 	*
+-->
