@@ -4,20 +4,16 @@ _____
 # Ejercicio 15
 _____
 
-__La derivada puntual__  
+__Suma de los elementos de un arreglo__  
 
 _____
 
-La derivada de una función $f:\mathbf{R} \to \mathbf{R}$ en un punto $x = a$, se define como el límite de la tasa de cambio promedio a medida que el intervalo se acerca a cero:
-$$f^{'}(a) = lim_{h \to 0}\frac{f(a)-f(a+h)}{h}.$$
-
-Escribir una función que calcule y muestre en consola el valor de la derivada en un punto de una función, la función y el punto son dados por el usuario.
-
+Escriba un función que tome como parámetro (dado por el usuario) un arreglo de números y calcule la suma de los todos los elementos del arreglo.
 ____
 
 **Notas**  
 
-Tip se suguiere utilizar `Sympy`. Pero es libre de utilizar el módulo que crea necesario.
+No utilizar módulos y/o funciones predefinidas de Python. 
 
 _____
 
