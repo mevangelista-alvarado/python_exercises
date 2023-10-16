@@ -24,7 +24,7 @@ _____
 ## Soluciones
 
 * Ejercicio 0
-	* [Miguel Evamgelista / @mevangelista-alvarado / grupo-000](colab-url)
+	* [Miguel Evangelista / @mevangelista-alvarado / grupo-000](colab-url)
 * Ejercicio 1
 	* 
 * Ejercicio 2
