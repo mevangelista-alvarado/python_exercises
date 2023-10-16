@@ -8,9 +8,7 @@ __Estadística Simple__
 
 Realice una función que dada un arreglo que calcule la media, el valor mínimo y el valor máximo de la misma.
 
-Recuerde que la media se calcula de la siguiente manera: Dado un conjunto de números $x_{1}, \dots, x_{n}$ la media esta dada como 
-
-$$\frac{\Sigma_{i=1}^{n}x_{i}}{n}.$$
+Recuerde que la media se calcula de la siguiente manera: Dado un conjunto de números $x_{1}, \dots, x_{n}$ la media esta dada como $\frac{\Sigma_{i=1}^{n}x_{i}}{n}.$
 
 
 **Notas**  
