@@ -1,3 +1,6 @@
+![urc_logo_ext](https://github.com/URC-MAC/.github/assets/28746720/1d2b04df-5870-457b-82ab-4eb97ec99e17)
+___
+
 # Ejercicios de Python 
 
 _____
@@ -5,7 +8,7 @@ _____
 ## Indicaciones
 
 * Selecione un ejercicio (Acorde al dominio de Python que usted maneje)
-* Desarrolle la solución al ejercicio en un Gogole Colab
+* Desarrolle la solución al ejercicio en un Gogole Colab. Utilice el siguiente [template](https://colab.research.google.com/drive/10vygSH7z_Nz6L0yswGtYL_OYL4pkwzbc?usp=sharing) de Google Colab para realizar los ejercicios 
 * Agrege su Google Colab al Github
 	* El nombre del archivo debe ser el siguiente: "{#}_solucion_problema_{#_de_solucion}.ipynb", donde si existe un archivo previo # es la posicion de su archivo, en caso contrario # es igual a 0, y  # de solucion es el numero del ejercicio seleccionado.
 * En el archivo README.md agrege una url que apunte a su Google Colab, ir al ejemplo 0 de la sección __Soluciones__
