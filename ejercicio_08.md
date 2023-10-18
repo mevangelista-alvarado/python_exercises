@@ -12,13 +12,13 @@ Se llama serie armónica a aquella que suma los inversos multiplicativos de los 
 
 $$\sum_{k=1}^{\infty }{\frac {1}{k}}=1+{\frac {1}{2}}+{\frac {1}{3}}+{\frac {1}{4}}+{\frac {1}{5}}+{\frac {1}{6}}+{\frac {1}{7}}\cdots$$  
 
-Escribir una función que calcule y muestre en consola el elemnto $$S_{n}=\sum_{k=1}^{n}{\frac {1}{k}}$$ para $n$ dado por el usuario.
+Escribir una función que calcule y muestre en consola el elemento $$S_{n}=\sum_{k=1}^{n}{\frac {1}{k}}$$ para un $n$ dado por el usuario.
 
 ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
