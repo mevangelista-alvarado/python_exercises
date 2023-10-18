@@ -11,13 +11,13 @@ _____
 La derivada de una función $f:\mathbf{R} \to \mathbf{R}$ en un punto $x = a$ es el valor del límite (si existe) del siguiente cociente
 $$f^{'}(a) = lim_{h \to 0}\frac{f(a)-f(a+h)}{h}.$$
 
-Escribir una función que calcule y muestre en consola el valor de la derivada en un punto de una función, la función y el punto son dados por el usuario.
+Escribir una función que calcule y muestre en consola el valor de la derivada en un punto de una función $f$, la función $f$ y el punto $a$ son dados por el usuario.
 
 ____
 
 **Notas**  
 
-Tip se suguiere utilizar Sympy.
+Tip se suguiere utilizar `Sympy`.
 
 _____
 
