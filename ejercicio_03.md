@@ -6,7 +6,7 @@ ___
 
 __Estadística Simple__
 
-Realice una función que dada un arreglo que calcule la media, el valor mínimo y el valor máximo de la misma.
+Realice una función que dado un arreglo que calcule la media, el valor mínimo y el valor máximo del mismo arreglo.
 
 Recuerde que la media se calcula de la siguiente manera: 
 
