@@ -7,18 +7,18 @@ _____
 
 ## Indicaciones
 
-* Selecione un ejercicio (Acorde al dominio de Python que usted maneje y le represente un reto la solución del mismo)
+* Selecione un ejercicio de los 25 disponibles. (Acorde al dominio de Python que usted maneje y le represente un reto la solución del mismo)
 * Desarrolle la solución al ejercicio en un Gogole Colab. Utilice el siguiente [template](https://colab.research.google.com/drive/10vygSH7z_Nz6L0yswGtYL_OYL4pkwzbc?usp=sharing) de Google Colab para realizar los ejercicios 
 * Agrege su Google Colab al Github
 	* El nombre del archivo debe ser el siguiente: "{#}-solucion-problema-{#-de-solucion}.ipynb", donde si existe un archivo previo # es la posicion de su archivo, en caso contrario # es igual a 0, y  # de solucion es el numero del ejercicio seleccionado.
 * En el archivo README.md agrege una url que apunte a su Google Colab, ir al ejemplo 0 de la sección __Soluciones__
-
+* 
 _____
 
 **Notas**
 * Trate de explicar la solución del problema de tal manera el usuario pueda entenderlo sin ayuda externa. Recuerde que usted no va a estar explicando el problema cuando este se califique.
 * Si no tiene acceso al repositorio, indique al profesor para que le de acceso.
-
+* Si un ejercicio extra, este sera tomado en cuenta para su evaluación final.
 _____
 
 ## Soluciones
@@ -49,7 +49,6 @@ _____
 	* 
 * Ejercicio 12  
 	*  
-<!--
 * Ejercicio 13  
 	* 
 * Ejercicio 14  
