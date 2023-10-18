@@ -8,7 +8,7 @@ __Ecuación de una recta__
 
 Dados dos puntos $(x_1, y_1)$ y $(x_2, y_2)$ podemos encontrar la pendiente $m$ de la recta que pasa por dichos puntos en una recta y luego podemso encontrar el valor de $b$ en la ecuación de la forma pendiente-ordenada al origen de la forma $y = mx + b$.
 
-Realice una función que dado dos puntos calcule la ecuación de la recta que pasa por dhicos puntos dados por el usuario.
+Realice una función que dado dos puntos, calcule la ecuación de la recta que pasa por dichos puntos dados por el usuario.
 
 ___
 
