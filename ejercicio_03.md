@@ -13,7 +13,7 @@ Recuerde que la media se calcula de la siguiente manera: Dado un conjunto de nú
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 ___
 
