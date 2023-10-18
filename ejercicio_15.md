@@ -13,7 +13,7 @@ ____
 
 **Notas**  
 
-No utilizar módulos y/o funciones predefinidas de Python. 
+No utilizar módulos y/o funciones predefinidas de `Python`. 
 
 _____
 
