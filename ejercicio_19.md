@@ -8,7 +8,7 @@ __Generar una contraseña aleatoria__
 
 _____
 
-Escribir una función que tome como parámetros un arreglo de caracteres y un entero que indique la longuitud de la contraseña, con estos parámetros se debe generar e imprimir un mensaje en consola una contraseña de forma aleatoria con la longitud indicada por el usuario.
+Escribir una función que tome como parámetros un arreglo de carácteres y un entero que indique la longuitud de la contraseña, se debe generar e imprimir un mensaje en consola una contraseña de forma aleatoria con los elemntos del arreglo y con la longitud indicada por el usuario.
 
 ____
 
