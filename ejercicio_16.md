@@ -8,13 +8,13 @@ __Elementos en común de un arreglo__
 
 _____
 
-Escribir una función que dadas dos listas por el usuario, calcule y muestre en consola una lista que contega los elementos en común entre dichas listas.
+Escribir una función que dadas dos arreglos por el usuario, calcule y muestre en consola los elementos en común entre dichos arreglos.
 
 ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
