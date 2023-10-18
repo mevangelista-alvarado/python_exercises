@@ -22,7 +22,7 @@ ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
