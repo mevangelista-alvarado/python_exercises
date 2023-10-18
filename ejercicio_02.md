@@ -16,7 +16,7 @@ Escribir una función que calcule el factorial de un número dado por el usuario
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 ___
 
