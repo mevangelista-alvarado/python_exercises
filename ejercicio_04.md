@@ -12,7 +12,7 @@ El algoritmo de Chudnovsky es un método para calcular los dígitos de $\pi$. Fu
 
 $$ \frac{1}{\pi} = 12 \sum^\infty_{k=0} \frac{(-1)^k (6k)! (13591409 + 545140134k)}{(3k)!(k!)^3 640320^{3k + 3/2}}.$$
 
-Escribir una función que dado un k un numero entero calcule y muestre los decimales de $\pi$ asociados al algoritmo de Chudnovsky
+Escribir una función que dado un k un número entero calcule y muestre los decimales de $\pi$ asociados al algoritmo de Chudnovsky
 
 _____
 
