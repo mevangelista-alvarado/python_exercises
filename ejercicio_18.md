@@ -8,7 +8,7 @@ __Posición de un elemento en un arreglo__
 
 _____
 
-Escribir una función que tome los parámetros $L$ y $x$ (dados por el usuario), que devuelva el índice o índices de $L$ donde se encuentra el elemento $x$, si no existen indices, entonces la función debe devolver un arreglo vacío e imprimir un mensaje en consola donde indique que el elemento $x$ no esta en $L$. 
+Escribir una función que tome los parámetros $L$ y $x$ (dados por el usuario), que devuelva el índice ó índices de $L$ donde se encuentra el elemento $x$, si no existen indices, entonces la función debe devolver un arreglo vacío e imprimir un mensaje en consola donde indique que el elemento $x$ no esta en $L$. 
 
 En este contexto, $L$ es una arreglo y $x$ es un valor cualquiera (int, float, string, etc). 
 
@@ -16,7 +16,7 @@ ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
