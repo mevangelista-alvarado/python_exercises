@@ -18,8 +18,7 @@ El algoritmo consiste en los siguientes pasos.
 
 * Si la división no es exacta, dividimos el divisor entre el resto obtenido y continuamos de esta forma hasta obtener una división exacta.
 
-El m.c.d. es el último divisor.  
-
+El máximo común divisor es el último divisor.  
 
 Escribir una función que calcule y muestre en consola el algoritmo de Euclides para dos números dados por el usuario.
 
@@ -27,7 +26,7 @@ ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
