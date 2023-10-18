@@ -8,23 +8,29 @@ _____
 ## Indicaciones
 
 * Selecione un ejercicio de los 25 disponibles. (Acorde al dominio de Python que usted maneje y le represente un reto la solución del mismo)
-* Desarrolle la solución al ejercicio en un Gogole Colab. Utilice el siguiente [template](https://colab.research.google.com/drive/10vygSH7z_Nz6L0yswGtYL_OYL4pkwzbc?usp=sharing) de Google Colab para realizar los ejercicios 
-* Agrege su Google Colab al Github
-	* El nombre del archivo debe ser el siguiente: "{#}-solucion-problema-{#-de-solucion}.ipynb", donde si existe un archivo previo # es la posicion de su archivo, en caso contrario # es igual a 0, y  # de solucion es el numero del ejercicio seleccionado.
-* En el archivo README.md agrege una url que apunte a su Google Colab, ir al ejemplo 0 de la sección __Soluciones__
-* 
+* Desarrolle la solución al ejercicio en un Gogole Colab. Se recomienda ampliamente que utilice el siguiente [template](https://colab.research.google.com/drive/10vygSH7z_Nz6L0yswGtYL_OYL4pkwzbc?usp=sharing) de Google Colab para realizar los ejercicios 
+* Agregue su Google Colab al Github.  
+  
+  El nombre del archivo debe ser el siguiente: `{#}-solucion-problema-{#-de-ejercicio}.ipynb`, donde:
+   * Si existe un archivo previo el valor de `#` es la posición que corresponde a su archivo, en caso contrario `#` es igual a 0, y
+   * `#-de-ejericio` es el número del ejercicio seleccionado.  
+  
+  Un ejemplo de esta notación, la pude notar en el nombre del archivo `0_solucion_problema_0.ipynb` alojado en este reposotorio.
+* En el archivo `README.md` agregue una url que apunte a su Google Colab. Note el ejemplo 0 de la sección __Soluciones__
+  
 _____
 
 **Notas**
 * Trate de explicar la solución del problema de tal manera el usuario pueda entenderlo sin ayuda externa. Recuerde que usted no va a estar explicando el problema cuando este se califique.
 * Si no tiene acceso al repositorio, indique al profesor para que le de acceso.
-* Si un ejercicio extra, este sera tomado en cuenta para su evaluación final.
+* Si realiza un ejercicio extra, este será tomado en cuenta para su evaluación final.
+
 _____
 
 ## Soluciones
 
 * Ejercicio 0
-	* [Miguel Evangelista / @mevangelista-alvarado / grupo-000](colab-url)
+	* [Miguel Evangelista / @mevangelista-alvarado / grupo-000](https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_0.ipynbl)
 * Ejercicio 1  
 	* 
 * Ejercicio 2  
@@ -62,6 +68,18 @@ _____
 * Ejercicio 18  
 	*
 * Ejercicio 19  
+	* 
+* Ejercicio 20  
+	* 
+* Ejercicio 21
+	*
+* Ejercicio 22  
+	* 
+* Ejercicio 23
+	*
+* Ejercicio 24  
+	* 
+* Ejercicio 25  
 	* 
 * Ejercicio 20  
 	* 
