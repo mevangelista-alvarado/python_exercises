@@ -14,13 +14,13 @@ Un número entero $d$ se llama máximo común divisor de los números $a$ y $b$ 
 * $d$ es divisible por cualquier otro divisor común de los números $a$ y $b$.
 
 
-Escribir una función que calcule y muestre máximo común divisor de dos numeros dados por el usuario.
+Escribir una función que calcule y muestre el máximo común divisor de dos números dados por el usuario.
 
 ____
 
 **Notas**  
 
-No utilice módulos de Python.
+No utilice módulos de `Python`.
 
 _____
 
