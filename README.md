@@ -81,8 +81,4 @@ _____
 	* 
 * Ejercicio 25  
 	* 
-* Ejercicio 20  
-	* 
-* Ejercicio 21
-	*
--->
+
