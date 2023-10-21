@@ -30,7 +30,7 @@ _____
 ## Soluciones
 
 * Ejercicio 0
-	* [Miguel Evangelista / @mevangelista-alvarado / grupo-000](https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_0.ipynbl)
+	* [Miguel Evangelista / @mevangelista-alvarado / grupo-000](https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_0.ipynb)
 * Ejercicio 1  
 	* 
 * Ejercicio 2  
