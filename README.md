@@ -40,7 +40,7 @@ _____
 * Ejercicio 4  
 	* 
 * Ejercicio 5  
-	* 
+	* https://colab.research.google.com/github/mevangelista-alvarado/python_exercises/blob/main/0_soluci%C3%B3n_problema_5.ipynb#scrollTo=_tpYlOuh0gV9&line=1&uniqifier=1
 * Ejercicio 6  
 	*
 * Ejercicio 7  
@@ -76,7 +76,7 @@ _____
 * Ejercicio 22  
 	* 
 * Ejercicio 23  
-	*
+	*https://colab.research.google.com/github/mevangelista-alvarado/python_exercises/blob/main/0_soluci%C3%B3n_problema_23.ipynb#scrollTo=bPXH0F4roAED&line=1&uniqifier=1
 * Ejercicio 24  
 	* 
 * Ejercicio 25  
