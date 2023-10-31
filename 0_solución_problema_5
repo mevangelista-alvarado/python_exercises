@@ -25,3 +25,6 @@ print("El máximo común divisor de ", num1," y ", num2," es ", mcd(num1, num2))
 
 Bibliografía
 https://colab.research.google.com/drive/1FrhDbvwj_KXM9esc-cjj-hiKgL1g2lGN#scrollTo=_tpYlOuh0gV9&line=13&uniqifier=1
+Divisores y múltiplos: Máximo común divisor. (s/f). Gcfglobal.org. Recuperado el 31 de octubre de 2023, de https://edu.gcfglobal.org/es/divisores-y-multiplos/maximo-comun-divisor/1/
+
+
