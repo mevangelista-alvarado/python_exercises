@@ -78,7 +78,7 @@ _____
 * Ejercicio 23  
 	*0_solución_problema_5.ipynb
 * Ejercicio 24  
-	* 
+	* Espinosa Guzmán César / @carademelon / grupo-501 /(https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_ejercicio_24.ipynb)
 * Ejercicio 25  
 	* 
 
