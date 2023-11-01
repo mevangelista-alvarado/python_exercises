@@ -80,5 +80,5 @@ _____
 * Ejercicio 24  
 	* Espinosa Guzmán César / @carademelon / grupo-501 /(https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_ejercicio_24.ipynb)
 * Ejercicio 25  
-	* 
+	* Adaya Martínez Héctor Donaji / @Hector-DAM / Grupo-402 / https://github.com/mevangelista-alvarado/python_exercises/blob/main/0_solucion_problema_25.ipynb 
 
