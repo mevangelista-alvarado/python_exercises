@@ -34,7 +34,7 @@ _____
 * Ejercicio 1  
 	* 
 * Ejercicio 2  
-	*
+	* Espinosa Sánchez Albert Alfonso / @alberths-mx / Grupo-402 / https://colab.research.google.com/drive/1iFfcHZNVosXKxgoC2_NdWlo5_jtNbP1N#scrollTo=JeJ7UlUfXT5M
 * Ejercicio 3  
 	*
 * Ejercicio 4  
