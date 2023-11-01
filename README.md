@@ -35,7 +35,7 @@ _____
 	* 
 * Ejercicio 2  
 	* Espinosa Sánchez Albert Alfonso / @alberths-mx / Grupo-402 /
-   https://github.com/mevangelista-alvarado/python_exercises/blob/main/1_solucion_problema_02%20(1).ipynb
+   https://github.com/mevangelista-alvarado/python_exercises/blob/main/1_solucion_problema_02.ipynb
    https://colab.research.google.com/drive/1iFfcHZNVosXKxgoC2_NdWlo5_jtNbP1N#scrollTo=JeJ7UlUfXT5M
 * Ejercicio 3  
 	*
