@@ -43,7 +43,7 @@ _____
 * Ejercicio 5  
 	* 0_solución_problema_23.ipynb
 * Ejercicio 6  
-	*
+	* [Adán Quintero / @adanqz / grupo-401](https://github.com/mevangelista-alvarado/python_exercises/blob/main/16_solucion_elementos_en_comun.ipynb)
 * Ejercicio 7  
 	* 
 * Ejercicio 8  
